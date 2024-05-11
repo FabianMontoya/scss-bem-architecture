@@ -1,4 +1,4 @@
-# SCSS 6-1 architecture for Masiv 
+# SCSS 6-1 BEM architecture
 
 Esta arquitectura se encuentra basada en el [El Patron 7-1](https://sass-guidelin.es/es/#arquitectura) propuesto por [Hugo Giraudel](https://hugogiraudel.com/). 
 
